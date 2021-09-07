@@ -2,7 +2,7 @@
 
 This is a user login and registration app using Node.js, express, jsonwebtoken,  passport, passport-jwt, morgan, mongoose, bcrypt, cors, dotenv, and consola
 
-the main idea of this app is to apply authentication and authorization based in user role using jwt and passport
+the main idea of this app is to apply authentication and authorization based on user role using jwt and passport
 
 ## Configuration
 inside the main root of the folder, open the ``` exmaple.env ``` file and modify ``` DB_URL ``` with your keys and ``` SECRET ``` with new secret
